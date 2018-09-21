@@ -1,0 +1,83 @@
+.userPopout-3XzG_A .headerTop-3C2Zn0 {padding: 0}
+.userPopout-3XzG_A {border-radius: var(--profileradius)}
+.userPopout-3XzG_A .avatarWrapper-3H_478,
+.userPopout-3XzG_A .wrapper-2F3Zv8,
+#app-mount .userPopout-3XzG_A .avatarWrapper-3H_478 .image-33JSyf {
+    image-rendering: auto;
+    border-color: transparent;
+    background-color: transparent;
+    margin: 0px 0px 0px;
+    width: 100%;
+    height: 245px;
+    display: flex;
+    flex: 1;
+    background-size: 250px 250px;
+    border-radius: 0;
+    background-position: 0;
+    background-repeat: no-repeat;
+    position: relative;
+    -webkit-mask: none;
+    mask: none;
+    }
+.userPopout-3XzG_A .header-3mZJcV:hover .avatarWrapper-3H_478 {filter: grayscale(14%);transition: filter 500ms ease-out;}
+.userPopout-3XzG_A .header-3mZJcV {height: 250px;transition: filter 100ms;background: none;border: none;color: transparent;z-index: 2;padding: 0}
+.userPopout-3XzG_A .avatarWrapper-3H_478.no-hover {min-height: 250px;top: 9px;}
+.userPopout-3XzG_A .headerPlaying-2eYqm9 {height: 350px;background-color: #2f3136}
+.userPopout-3XzG_A .header-3mZJcV:hover .headerText-2sdzFM {
+    width: 200px;margin-top: -180px;border-radius: 10px;position: absolute;top: 342px;transition: top 170ms ease-out}
+.userPopout-3XzG_A .headerText-2sdzFM {
+    width: 200px;top: 180px;
+    position: absolute;
+    transition: top 270ms ease-in-out;z-index: 0}
+.userPopout-3XzG_A .headerStreaming-3F-wjT .headerLive-2dDMvp:hover {background-color: transparent}
+.userPopout-3XzG_A .header-3mZJcV:hover .avatarWrapper-3H_478 .avatarHint-2i5XWK {
+    background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0) 80%, rgba(0,0,0,0) 100%);
+    border-radius: 0;transition: opacity 300ms ease-in 80ms;opacity: 1}
+.userPopout-3XzG_A .avatarWrapper-3H_478 .avatarHint-2i5XWK {
+    background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0) 80%, rgba(0,0,0,0) 100%);
+    box-shadow: none;opacity: 0;
+    border-radius: 0;transition: opacity 180ms ease-out 100ms;
+    -webkit-mask: none;mask: none}
+.userPopout-3XzG_A :-webkit-any(.nameTag-m8r81H, .headerActivityText-3qBQRo, .headerTag-3zin_i,.headerName-fajvi9),.userPopout-3XzG_A .creationDate {
+    background: linear-gradient(to right, rgba(0,0,0,0) 0%,rgba(0,0,0,0.4) 15%,rgba(0,0,0,0.4) 85%,rgba(0,0,0,0) 100%);
+    width: 200px;max-width: 200px;padding: 0 ;
+    overflow:hidden;white-space: nowrap}
+.userPopout-3XzG_A .headerText-2sdzFM .nameTag-m8r81H {margin-bottom: 4px}
+.userPopout-3XzG_A .headerText-2sdzFM .headerActivityText-3qBQRo {height: 0px;overflow: hidden;word-break: break-all;margin: 0}
+.userPopout-3XzG_A .header-3mZJcV:hover .headerText-2sdzFM .headerActivityText-3qBQRo {height: auto;max-height: 35px}
+#app-mount .userPopout-3XzG_A .avatarWrapper-3H_478 .statusProfile-3ynqtt {
+    bottom: -8px;width: 250px;height: 8px;left: 0;
+    box-shadow: inset 0 0 0 1.8px rgba(255,255,255,.2);
+    border-radius: 0;z-index: 4;border: none}
+#app-mount .userPopout-3XzG_A .statusProfile-3ynqtt.online-2S838R {background-color: #43b581}
+#app-mount .userPopout-3XzG_A .statusProfile-3ynqtt.streaming-2_dnHe {background-color: #593695}
+#app-mount .userPopout-3XzG_A .statusProfile-3ynqtt.dnd-1_xrcq {background-color: #f04747}
+#app-mount .userPopout-3XzG_A .statusProfile-3ynqtt.idle-3DEnRT {background-color: #faa61a}
+#app-mount .userPopout-3XzG_A .statusProfile-3ynqtt.invisible-1kp8Z0 {background-color: #1a36fa}
+#app-mount .userPopout-3XzG_A .statusProfile-3ynqtt.offline-3qoTek {background-color: #747f8d}
+.userPopout-3XzG_A .header-3mZJcV:hover .avatarWrapper-3H_478 .statusProfile-3ynqtt {filter: contrast(105%);transition: filter 480ms ease-out}
+.userPopout-3XzG_A .body-3rkFrF .bodyTitleText-hSiL7d {margin-top: 10px;margin-bottom: 4px}
+.userPopout-3XzG_A .headerText-2sdzFM .nameTag-m8r81H,.userPopout-3XzG_A  .headerName-fajvi9,
+.userPopout-3XzG_A .headerTagUsernameNoNickname-2_H881 {color: var(--color)}
+.userPopout-3XzG_A .headerText-2sdzFM .nameTag-m8r81H,
+.userPopout-3XzG_A .headerText-2sdzFM .headerTag-3zin_i,
+.userPopout-3XzG_A .header-3mZJcV:hover .headerText-2sdzFM .headerActivityText-3qBQRo,
+.userPopout-3XzG_A .header-3mZJcV:hover .creationDate {
+    opacity: 1;overflow: hidden;transition: opacity 200ms ease-in;
+    transition-delay: 170ms;text-align: center}
+.userPopout-3XzG_A .headerText-2sdzFM .headerActivityText-3qBQRo,
+.userPopout-3XzG_A .headerStreaming-3F-wjT .headerLive-2dDMvp {
+    position: fixed;top: 20px;left: 34px;
+    border-top: none;border-bottom: 1px solid rgba(255,255,255,.08);
+    background: linear-gradient(to right, rgba(250,250,250,0) 0%,rgba(250,250,250,0.05) 15%,rgba(250,250,250,0.05) 85%,rgba(250,250,250,0) 100%);
+    padding: 4px 25px;width: auto}
+.userPopout-3XzG_A .headerStreaming-3F-wjT {padding-bottom: 6px;}
+.userPopout-3XzG_A .headerStreaming-3F-wjT .avatarStatus-1g8f0K {bottom: -6px}
+.userPopout-3XzG_A .headerStreaming-3F-wjT .avatar-1BXaQj {padding-bottom: 4px;top: -2px}
+.userPopout-3XzG_A .body-3rkFrF {z-index: 1;padding-top: 14px}
+.userPopout-3XzG_A .footer-2J5zqP {z-index: 1}
+.userPopout-3XzG_A .avatarWrapper-3H_478 .avatar-1BXaQj::after {transform: scale(1);border-radius: 0}
+.userPopout-3XzG_A .avatarWrapper-3H_478:active, .userPopout-3XzG_A .avatarWrapper-3H_478:hover {box-shadow: none}
+#app-mount .userPopout-3XzG_A .avatarHint-1qgaV3 {border-radius:0}
+.userPopout-3XzG_A .maskProfile-1ObLFT{mask:none;-webkit-mask:none}
+.userPopout-3XzG_A .header-2BwW8b .creationDate {text-shadow: 1px 1px 1px #000;color:var(--color)}
